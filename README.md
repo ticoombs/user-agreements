@@ -1,5 +1,5 @@
 # user-agreements
-A repository to highlight and provide transparency for user agreement changes, for all software
+A repository to highlight and provide transparency for user agreement changes, for all software and licenses
 
 ## How-to Contribute
 When updating any software to a new version which comes with an updated user agreement or license change, before you immediatly hit accept. 
@@ -13,7 +13,7 @@ When updating any software to a new version which comes with an updated user agr
 ## Current Repo Structure
 While the repo is in its alpha stages the current structure will be as follows. If you dissagree or would like to propose we change our arrangement of licenses please open an Issue.
 
- - <repo>/<program>-<type>.txt
+ - \<repo\>/\<program\>\-\<type\>.txt
  - Commit Message: <Program> <Version> 
 
 Example:
@@ -27,6 +27,6 @@ Example:
 
 
 ## (Possible) Future Repo Structure?
- - <Program>
+ - \<program\>
   - user-agreement
   - privacy
